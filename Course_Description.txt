@@ -1,1 +1,121 @@
-Hi , This is a python course
+# The Python Course
+
+Welcome to [**The Python Course!**]
+
+This course is designed to take you from a beginner to an advanced Python programmer. This repository contains all the source code, projects, problem sets, and additional resources to enhance your learning experience.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Course Chapters](#course-chapters)
+- [Projects](#projects)
+- [Problem Sets](#problem-sets)
+- [Additional Resources](#additional-resources)
+- [How to Use This Repository](#how-to-use-this-repository)
+
+## Introduction
+
+This repository is part of **The Ultimate Python Course**, created by [CodeWithHarry](https://www.codewithharry.com/). It provides a structured and detailed guide to learning Python, covering fundamental to advanced topics.
+
+---
+
+## Course Chapters
+
+The course is divided into several chapters, each focusing on key Python concepts:
+
+### **Chapter 1: Modules, Comments & pip**
+- Writing your first Python program
+- Understanding modules
+- Using pip for package management
+- Using Python as a calculator
+- Comments in Python
+
+### **Chapter 2: Variables and Data Types**
+- Defining variables
+- Python data types
+- Rules for naming identifiers
+- Operators in Python
+- Using `type()` and typecasting
+- Accepting user input with `input()`
+
+### **Chapter 3: Strings**
+- String slicing
+- Slicing with skip values
+- String functions
+- Escape sequence characters
+
+### **Chapter 4: Lists and Tuples**
+- List indexing and methods
+- Tuples and their methods
+
+### **Chapter 5: Dictionary & Sets**
+- Dictionary properties and methods
+- Set operations and properties
+
+### **Chapter 6: Conditional Expressions**
+- `if`, `else`, and `elif` statements
+- Relational and logical operators
+
+### **Chapter 7: Loops in Python**
+- `while` and `for` loops
+- `range()` function
+- `for` loop with `else`
+- `break`, `continue`, and `pass` statements
+
+### **Chapter 8: Functions & Recursions**
+- Defining and calling functions
+- Understanding recursion in Python
+
+### **Chapter 9: File I/O**
+- Reading and writing files
+- Working with directories
+
+### **Chapter 10: Object-Oriented Programming (OOP)**
+- Classes and objects
+- Methods and attributes
+
+### **Chapter 11: Inheritance & Advanced OOP**
+- Inheritance
+- Polymorphism
+- Operator overloading
+
+### **Chapter 12: Advanced Python - Part 1**
+- Latest Python features
+- Walrus operator
+- Advanced type hints
+- Match-case statements
+- Dictionary merge & update operators
+- Exception handling enhancements
+- Global keyword and `enumerate()` function
+- List comprehensions
+
+### **Chapter 13: Advanced Python - Part 2**
+- Virtual environments
+- Lambda functions
+- String methods: `join` and `format`
+- Functional programming (`map`, `filter`, `reduce`)
+
+---
+
+## Projects
+
+Work on exciting projects to apply your Python skills:
+
+### **Basic Projects**
+- **Snake Water Gun Game** – A Rock-Paper-Scissors variant
+- **Guess The Number** – A number guessing game
+
+### **Mega Projects**
+- **Jarvis Virtual Assistant** – A voice assistant capable of performing tasks
+- **AI AutoReply Bot** – An AI bot for automatic message responses
+
+---
+
+## Problem Sets
+
+Each chapter includes problem sets designed to test your understanding and improve your coding skills. These exercises range from simple problems to complex challenges.
+
+---
+
+Happy coding! 🚀
+
